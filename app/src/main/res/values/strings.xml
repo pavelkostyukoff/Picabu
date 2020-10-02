@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Picabu</string>
+  <string name="post">Picabu posts</string>
+  <string name="favorites">My fav posts</string>
+  <string name="you_have_no_favorites_yet">You have no favorites yet 💔</string>
+  <string name="about">About</string>
+  <string name="made_by">Made with ❤️, by a 🐶 lover</string>
+  <string name="common_no_internet_connection">No Internet Connection</string>
+
+</resources>
